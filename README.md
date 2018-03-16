@@ -24,6 +24,8 @@ Header 2
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae doloremque impedit natus soluta neque suscipit voluptatem vel, eaque repudiandae id sunt officiis autem aspernatur cupiditate et veniam molestiae rerum ad.
 
+## Links
+
 [Hackeryou.com](http://hackeryou.com "This is where wes teaches")
 or another way
 Make sure you check out [Wes'][1] site.
@@ -31,6 +33,16 @@ He teaches in [Hacker you][hackeryou] site.
 
 [1]: http://wesbos.com/
 [hackeryou]: http://hackeryou.com
+
+## Images
+![Wow this is amazing](https://picsum.photos/300/ "This is a random image")
+
+### Random image
+![Random][img1]
+
+[img1]:https://picsum.photos/300/?random
+
+[<img src="https://picsum.photos/300/?image=106" title="Flowers">](https://picsum.photos/3000/?image=106)
 
 ```javascript
 const name = 'Bob Sponge';
