@@ -11,6 +11,17 @@ The __next__ text is **bolder**.
 
 ~~This text should cross out~~!
 
+# Header 1
+## Header 2
+### Header 3
+
+or
+
+Header 1
+========
+Header 2
+--------
+
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae doloremque impedit natus soluta neque suscipit voluptatem vel, eaque repudiandae id sunt officiis autem aspernatur cupiditate et veniam molestiae rerum ad.
 
 ```javascript
@@ -25,7 +36,8 @@ let age = 20;
 
 ### The Best Pups Around
 
-| NAME    | Age | Fav Food     |
+| Name    | Age | Fav Food     |
+| ------- | --- | ------------ |
 | Patrice |  2  | Chocolates   |
 | Alice   |  6  | Mexican Food |
 | Bob     |  5  | Pizza        |
