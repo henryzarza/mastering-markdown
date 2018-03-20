@@ -67,6 +67,24 @@ let age = 20;
 1. Gently stir together
 1. Bake at 350 for 20 minutes
 
+## Line breaks
+This is amazing. <br>
+I love chocolates.
+
+## Horizontal rules
+
+Something
+----
+Another thing
+====
+
+## Block quotes
+> You miss 100% of the shots you don't take.
+>
+> - **Wayne Gretzky**
+>
+> Another line here
+
 ### TODO:
 * [x] Sign up for Mastering Course
 * [x] Install Tooling
