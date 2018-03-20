@@ -85,6 +85,25 @@ Another thing
 >
 > Another line here
 
+Here is my code:
+
+```js
+var x = 100;
+const dog = 'snickers';
+```
+
+```php
+$age = 50;
+$name = "Bob";
+echo strtoupper($name);
+```
+
+```diff
+var x = 100;
+- var y = 200;
++ var y = 150;
+```
+
 ### TODO:
 * [x] Sign up for Mastering Course
 * [x] Install Tooling
