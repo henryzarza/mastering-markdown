@@ -81,7 +81,7 @@ Another thing
 ## Block quotes
 > You miss 100% of the shots you don't take.
 >
-> - **Wayne Gretzky**
+> -**Wayne Gretzky**
 >
 > Another line here
 
@@ -112,7 +112,9 @@ var x = 100;
 ### The Best Pups Around
 
 | Name    | Age | Fav Food     |
-| ------- | --- | ------------ |
+|:-------:|----:| ------------ |
 | Patrice |  2  | Chocolates   |
 | Alice   |  6  | Mexican Food |
 | Bob     |  5  | Pizza        |
+
+
