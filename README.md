@@ -48,6 +48,24 @@ He teaches in [Hacker you][hackeryou] site.
 const name = 'Bob Sponge';
 let age = 20;
 ```
+## Ingredients
+* milk
+* eggs
+* bread
+* sugar
+
+## Steps
+1. Combine ingredients
+  * Sift the flour
+  
+    This is inline
+    
+    ![](https://picsum.photos/300/)
+    ```js
+      var x = 100;
+    ```
+1. Gently stir together
+1. Bake at 350 for 20 minutes
 
 ### TODO:
 * [x] Sign up for Mastering Course
